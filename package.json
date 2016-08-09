@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^1.1.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-inject": "^1.5.0",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "main-bower-files": "^2.13.1",
+    "run-sequence": "^1.2.2",
+    "wiredep": "^2.2.2"
+  },
+  "description": ""
+}

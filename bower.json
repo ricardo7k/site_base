@@ -1,0 +1,21 @@
+{
+  "name": "gulp",
+  "version": "0.0.0",
+  "authors": [
+    "ag2nurun"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  },
+  "homepage": "http://ag2nurun.com.br",
+  "description": "",
+  "main": ""
+}
