@@ -21,5 +21,13 @@
     "run-sequence": "^1.2.2",
     "wiredep": "^2.2.2"
   },
-  "description": ""
+  "description": "* Install Node.js * npm install bower",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardo7k/site_base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ricardo7k/site_base/issues"
+  },
+  "homepage": "https://github.com/ricardo7k/site_base#readme"
 }

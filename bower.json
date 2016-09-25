@@ -2,7 +2,7 @@
   "name": "gulp",
   "version": "0.0.0",
   "authors": [
-    "ag2nurun"
+    "ricardo7k"
   ],
   "license": "MIT",
   "ignore": [
@@ -15,7 +15,7 @@
   "dependencies": {
     "bootstrap-sass": "^3.3.7"
   },
-  "homepage": "http://ag2nurun.com.br",
+  "homepage": "http://rfo.im",
   "description": "",
   "main": ""
 }
