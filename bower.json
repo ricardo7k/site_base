@@ -16,6 +16,7 @@
     "bootstrap-sass": "^3.3.7"
   },
   "homepage": "http://rfo.im",
-  "description": "",
-  "main": ""
+  "description": "bower install",
+  "main": "",
+  "private": true
 }
