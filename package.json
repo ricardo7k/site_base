@@ -19,7 +19,8 @@
     "gulp-sass": "^2.3.2",
     "main-bower-files": "^2.13.1",
     "run-sequence": "^1.2.2",
-    "wiredep": "^2.2.2"
+    "wiredep": "^2.2.2",
+    "rfo": "1.1.11"
   },
   "description": "* Install Node.js * npm install bower",
   "repository": {
@@ -29,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/ricardo7k/site_base/issues"
   },
-  "homepage": "https://github.com/ricardo7k/site_base#readme"
+  "homepage": "https://github.com/ricardo7k/site_base#readme",
+  "dependencies": {}
 }
